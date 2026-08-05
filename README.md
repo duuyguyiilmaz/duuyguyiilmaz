@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/duuyguyiilmaz">
-     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Duygu" alt="Hello! I&#39;m Duygu" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Duygu" alt="Hello! I&#39;m Duygu" />
   </a>
 </p>
 
@@ -47,14 +47,14 @@ I am a Computer Engineering student focused on building a strong foundation in s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=duuyguyiilmaz&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=duuyguyiilmaz&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=duuyguyiilmaz&show_icons=true&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=duuyguyiilmaz&layout=compact&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=duuyguyiilmaz&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=duuyguyiilmaz&bg_color=00000000&color=d29922&line=d29922&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
