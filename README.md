@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Computer Engineering student focused on building a strong foundation in software development, object-oriented programming, data structures, and algorithms. My projects include Java coursework, algorithm implementations, Kotlin and Firebase mobile applications, and embedded systems experiments with Arduino.
+I am a Computer Engineering student focused on building a strong foundation in software development, object-oriented programming, data structures, and algorithms. My projects include Java coursework, algorithm implementations, Kotlin and Firebase mobile application, and embedded systems experiments with Arduino.
 
 During my frontend internship, I gained practical experience developing user interfaces with React and TypeScript and working within a collaborative development workflow. I am currently expanding my technical knowledge by building complete, maintainable, and real-world-oriented software projects.
 
