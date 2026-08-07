@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&repeat=false&width=760&height=76&lines=Hello%2C+I%27m+Duygu+Y%C4%B1lmaz" alt="Hello, I'm Duygu Yılmaz" />
   </a>
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=760&height=42&lines=Computer+Engineering+Student+%7C;Turning+ideas+into+practical%2C+maintainable+projects" alt="Computer Engineering Student " />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=760&height=42&lines=Computer+Engineering+Student;Turning+ideas+into+practical%2C+maintainable+projects" alt="Computer Engineering Student " />
 </div>
 
 <br />
